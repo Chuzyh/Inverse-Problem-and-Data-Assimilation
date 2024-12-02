@@ -1,0 +1,8 @@
+n=5
+ensemble_size=500
+localization_radius=2
+rmse 0.1206249595396828
+
+real    85m0.286s
+user    344m6.797s
+sys     889m53.634s

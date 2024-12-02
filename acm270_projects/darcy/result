@@ -1,0 +1,99 @@
+32*32 
+num_samples = 100
+321.9372
+real    0m6.440s
+user    0m10.768s
+sys     0m1.138s
+
+32*32 
+num_samples = 1000
+280.0072
+real    0m11.741s
+user    1m9.656s
+sys     0m2.187s
+01 0.01 295.4010
+
+32*32 
+num_samples = 10000
+229.1814
+real    1m25.702s
+user    10m49.285s
+sys     0m11.045s
+01 0.01 189.1669
+
+32*32 
+num_samples = 100000
+real    19m35.493s
+user    147m34.853s
+sys     2m47.069s
+186.9065
+01 0.01 146.8316
+
+32*32 
+num_samples = 1000000
+real    150m2.070s
+user    1174m58.877s
+sys     18m44.750s
+181.1333
+01 0.01 143.3735
+
+32*32 
+num_samples = 1000000
+real    150m2.070s
+user    1174m58.877s
+sys     18m44.750s
+01 0.01 143.4239
+real    1240m3.421s
+user    7799m28.543s
+sys     100m22.954s
+
+16*16
+num_samples = 1000
+real    0m21.268s
+user    1m0.366s
+sys     0m1.863s
+57.9642
+
+16*16
+num_samples = 10000
+real    2m24.836s
+user    9m42.768s
+sys     0m9.723s
+48.2449
+01 0.01 42.5073
+
+16*16
+num_samples = 100000
+real    25m38.895s
+user    192m33.011s
+sys     4m3.719s
+45.7278
+
+01 39.4709
+01 probability=0.1 37.5223
+01 probability=0.01 38.0456
+
+16*16
+num_samples = 1000000
+real    156m7.930s
+user    1197m4.740s
+sys     21m31.861s
+46.3496
+01 37.8465
+01 0.01 37.7336
+
+16*16
+num_samples = 6000000
+real    827m12.352s
+user    4055m2.408s
+sys     55m30.262s
+46.1233
+01 37.6006
+01 0.01 37.8038
+
+16*16
+num_samples = 10000000
+real    1132m23.404s
+user    8133m25.298s
+sys     92m29.872s
+01 0.01 37.7405
