@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.10.14)  1 DEC 2024 21:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.10.14)  2 DEC 2024 00:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,184 +512,7 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen282
 \beamer@dimb=\dimen283
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctex.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-01-21 L3 programming layer (loader) 
- (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count329
-\l__pdf_internal_box=\box75
-))
-Package: ctex 2021/12/12 v2.5.8 Chinese adapter in LaTeX (CTEX)
- (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
-) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
-) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty
-Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
-) (/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
-Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
-))
-\l__ctex_tmp_int=\count330
-\l__ctex_tmp_box=\box76
-\l__ctex_tmp_dim=\dimen284
-\g__ctex_section_depth_int=\count331
-\g__ctex_font_size_int=\count332
- (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
-File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
-)
-
-Package ctex Warning: UTF8 will be used as the default encoding.
-
-(/usr/share/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
-File: ctex-engine-pdftex.def 2021/12/12 v2.5.8 (pdf)LaTeX adapter (CTEX)
- (/usr/share/texmf/tex/latex/CJK/CJKutf8.sty
-Package: CJKutf8 2015/04/18 4.8.4
- (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks45
-\inpenc@posthook=\toks46
-) (/usr/share/texmf/tex/latex/CJK/CJK.sty
-Package: CJK 2015/04/18 4.8.4
- (/usr/share/texmf/tex/latex/CJK/mule/MULEenc.sty
-Package: MULEenc 2015/04/18 4.8.4
-) (/usr/share/texmf/tex/latex/CJK/CJK.enc
-File: CJK.enc 2015/04/18 4.8.4
-Now handling font encoding C00 ...
-... no UTF-8 mapping file for font encoding C00
-Now handling font encoding C05 ...
-... no UTF-8 mapping file for font encoding C05
-Now handling font encoding C09 ...
-... no UTF-8 mapping file for font encoding C09
-Now handling font encoding C10 ...
-... no UTF-8 mapping file for font encoding C10
-Now handling font encoding C20 ...
-... no UTF-8 mapping file for font encoding C20
-Now handling font encoding C19 ...
-... no UTF-8 mapping file for font encoding C19
-Now handling font encoding C40 ...
-... no UTF-8 mapping file for font encoding C40
-Now handling font encoding C42 ...
-... no UTF-8 mapping file for font encoding C42
-Now handling font encoding C43 ...
-... no UTF-8 mapping file for font encoding C43
-Now handling font encoding C50 ...
-... no UTF-8 mapping file for font encoding C50
-Now handling font encoding C52 ...
-... no UTF-8 mapping file for font encoding C52
-Now handling font encoding C49 ...
-... no UTF-8 mapping file for font encoding C49
-Now handling font encoding C60 ...
-... no UTF-8 mapping file for font encoding C60
-Now handling font encoding C61 ...
-... no UTF-8 mapping file for font encoding C61
-Now handling font encoding C63 ...
-... no UTF-8 mapping file for font encoding C63
-Now handling font encoding C64 ...
-... no UTF-8 mapping file for font encoding C64
-Now handling font encoding C65 ...
-... no UTF-8 mapping file for font encoding C65
-Now handling font encoding C70 ...
-... no UTF-8 mapping file for font encoding C70
-Now handling font encoding C31 ...
-... no UTF-8 mapping file for font encoding C31
-Now handling font encoding C32 ...
-... no UTF-8 mapping file for font encoding C32
-Now handling font encoding C33 ...
-... no UTF-8 mapping file for font encoding C33
-Now handling font encoding C34 ...
-... no UTF-8 mapping file for font encoding C34
-Now handling font encoding C35 ...
-... no UTF-8 mapping file for font encoding C35
-Now handling font encoding C36 ...
-... no UTF-8 mapping file for font encoding C36
-Now handling font encoding C37 ...
-... no UTF-8 mapping file for font encoding C37
-Now handling font encoding C80 ...
-... no UTF-8 mapping file for font encoding C80
-Now handling font encoding C81 ...
-... no UTF-8 mapping file for font encoding C81
-Now handling font encoding C01 ...
-... no UTF-8 mapping file for font encoding C01
-Now handling font encoding C11 ...
-... no UTF-8 mapping file for font encoding C11
-Now handling font encoding C21 ...
-... no UTF-8 mapping file for font encoding C21
-Now handling font encoding C41 ...
-... no UTF-8 mapping file for font encoding C41
-Now handling font encoding C62 ...
-... no UTF-8 mapping file for font encoding C62
-)
-LaTeX Info: Redefining \selectfont on input line 755.
-\CJK@indent=\box77
-) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)) (/usr/share/texlive/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
-Package: CJKpunct 2016/05/14 4.8.4
-\CJKpunct@cnta=\count333
-\CJKpunct@cntb=\count334
-\CJKpunct@cntc=\count335
-\CJKpunct@cntd=\count336
-\CJKpunct@cnte=\count337
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2026 (decimal 8230)
- (/usr/share/texlive/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (/usr/share/texmf/tex/latex/CJK/CJKspace.sty
-Package: CJKspace 2015/04/18 3.8.0
-) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexspa.def
-File: ctexspa.def 2021/12/12 v2.5.8 Space info for CJKpunct (CTEX)
-)
-
-Package hyperref Warning: Option `driverfallback' has already been used,
-(hyperref)                setting the option has no effect on input line 315.
-
-Package hyperref Info: Option `unicode' set `true' on input line 334.
-\ccwd=\dimen285
-\l__ctex_ccglue_skip=\skip64
-)
-\l__ctex_ziju_dim=\dimen286
- (/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
-Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
-\l__zhnum_scale_int=\count338
-\l__zhnum_byte_min_int=\count339
-\l__zhnum_byte_max_int=\count340
- (/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
-File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
-)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
-File: ctex-scheme-chinese.def 2021/12/12 v2.5.8 Chinese scheme for generic (CTEX)
- (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
-File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
-)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
-File: ctex-fontset-fandol.def 2021/12/12 v2.5.8 Fandol fonts definition (CTEX)
-
-
-/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def:103: Critical Package ctex Error: CTeX fontset `fandol' is unavailable in current
-(ctex)                         mode.
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.103   }
-         
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
-Reading the current file 'ctex-fontset-fandol' will stop.
-
-
-)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg
-File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
-) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
@@ -698,27 +521,30 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count341
-\mult@box=\box78
-\multicol@leftmargin=\dimen287
-\c@unbalance=\count342
-\c@collectmore=\count343
-\doublecol@number=\count344
-\multicoltolerance=\count345
-\multicolpretolerance=\count346
-\full@width=\dimen288
-\page@free=\dimen289
-\premulticols=\dimen290
-\postmulticols=\dimen291
-\multicolsep=\skip65
-\multicolbaselineskip=\skip66
-\partial@page=\box79
-\last@line=\box80
-\maxbalancingoverflow=\dimen292
-\mult@rightbox=\box81
-\mult@grightbox=\box82
-\mult@firstbox=\box83
-\mult@gfirstbox=\box84
+\c@tracingmulticols=\count329
+\mult@box=\box75
+\multicol@leftmargin=\dimen284
+\c@unbalance=\count330
+\c@collectmore=\count331
+\doublecol@number=\count332
+\multicoltolerance=\count333
+\multicolpretolerance=\count334
+\full@width=\dimen285
+\page@free=\dimen286
+\premulticols=\dimen287
+\postmulticols=\dimen288
+\multicolsep=\skip64
+\multicolbaselineskip=\skip65
+\partial@page=\box76
+\last@line=\box77
+\maxbalancingoverflow=\dimen289
+\mult@rightbox=\box78
+\mult@grightbox=\box79
+\mult@firstbox=\box80
+\mult@gfirstbox=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
 \@tempa=\box85
 \@tempa=\box86
 \@tempa=\box87
@@ -752,37 +578,34 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box115
 \@tempa=\box116
 \@tempa=\box117
-\@tempa=\box118
-\@tempa=\box119
-\@tempa=\box120
-\c@minrows=\count347
-\c@columnbadness=\count348
-\c@finalcolumnbadness=\count349
-\last@try=\dimen293
-\multicolovershoot=\dimen294
-\multicolundershoot=\dimen295
-\mult@nat@firstbox=\box121
-\colbreak@box=\box122
-\mc@col@check@num=\count350
+\c@minrows=\count335
+\c@columnbadness=\count336
+\c@finalcolumnbadness=\count337
+\last@try=\dimen290
+\multicolovershoot=\dimen291
+\multicolundershoot=\dimen292
+\mult@nat@firstbox=\box118
+\colbreak@box=\box119
+\mc@col@check@num=\count338
 ) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen296
-\lightrulewidth=\dimen297
-\cmidrulewidth=\dimen298
-\belowrulesep=\dimen299
-\belowbottomsep=\dimen300
-\aboverulesep=\dimen301
-\abovetopsep=\dimen302
-\cmidrulesep=\dimen303
-\cmidrulekern=\dimen304
-\defaultaddspace=\dimen305
-\@cmidla=\count351
-\@cmidlb=\count352
-\@aboverulesep=\dimen306
-\@belowrulesep=\dimen307
-\@thisruleclass=\count353
-\@lastruleclass=\count354
-\@thisrulewidth=\dimen308
+\heavyrulewidth=\dimen293
+\lightrulewidth=\dimen294
+\cmidrulewidth=\dimen295
+\belowrulesep=\dimen296
+\belowbottomsep=\dimen297
+\aboverulesep=\dimen298
+\abovetopsep=\dimen299
+\cmidrulesep=\dimen300
+\cmidrulekern=\dimen301
+\defaultaddspace=\dimen302
+\@cmidla=\count339
+\@cmidlb=\count340
+\@aboverulesep=\dimen303
+\@belowrulesep=\dimen304
+\@thisruleclass=\count341
+\@lastruleclass=\count342
+\@thisrulewidth=\dimen305
 ) (/usr/share/texlive/texmf-dist/tex/latex/fundus-calligra/calligra.sty
 Package: calligra 2012/04/10 v1.9 LaTeX package calligra
 ) (/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
@@ -792,98 +615,98 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
  (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
  (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks47
-\XKV@tempa@toks=\toks48
+\XKV@toks=\toks45
+\XKV@tempa@toks=\toks46
 )
-\XKV@depth=\count355
+\XKV@depth=\count343
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv)
-\pstFP@xs=\count356
-\pstFP@xia=\count357
-\pstFP@xib=\count358
-\pstFP@xfa=\count359
-\pstFP@xfb=\count360
-\pstFP@rega=\count361
-\pstFP@regb=\count362
-\pstFP@regs=\count363
-\pstFP@times=\count364
+\pstFP@xs=\count344
+\pstFP@xia=\count345
+\pstFP@xib=\count346
+\pstFP@xfa=\count347
+\pstFP@xfb=\count348
+\pstFP@rega=\count349
+\pstFP@regb=\count350
+\pstFP@regs=\count351
+\pstFP@times=\count352
 )
-\psLoopIndex=\count365
+\psLoopIndex=\count353
 
 `PSTricks' v3.13  <2022/01/09> (tvz,hv)
-\pst@dima=\dimen309
-\pst@dimb=\dimen310
-\pst@dimc=\dimen311
-\pst@dimd=\dimen312
-\pst@dimg=\dimen313
-\pst@dimh=\dimen314
-\pst@dimm=\dimen315
-\pst@dimn=\dimen316
-\pst@dimo=\dimen317
-\pst@dimp=\dimen318
-\pst@hbox=\box123
-\pst@ibox=\box124
-\pst@boxg=\box125
-\pst@cnta=\count366
-\pst@cntb=\count367
-\pst@cntc=\count368
-\pst@cntd=\count369
-\pst@cntg=\count370
-\pst@cnth=\count371
-\pst@cntm=\count372
-\pst@cntn=\count373
-\pst@cnto=\count374
-\pst@cntp=\count375
-\@zero=\count376
-\pst@toks=\toks49
+\pst@dima=\dimen306
+\pst@dimb=\dimen307
+\pst@dimc=\dimen308
+\pst@dimd=\dimen309
+\pst@dimg=\dimen310
+\pst@dimh=\dimen311
+\pst@dimm=\dimen312
+\pst@dimn=\dimen313
+\pst@dimo=\dimen314
+\pst@dimp=\dimen315
+\pst@hbox=\box120
+\pst@ibox=\box121
+\pst@boxg=\box122
+\pst@cnta=\count354
+\pst@cntb=\count355
+\pst@cntc=\count356
+\pst@cntd=\count357
+\pst@cntg=\count358
+\pst@cnth=\count359
+\pst@cntm=\count360
+\pst@cntn=\count361
+\pst@cnto=\count362
+\pst@cntp=\count363
+\@zero=\count364
+\pst@toks=\toks47
 --- We are running latex or xelatex ---
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con) (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
-\psunit=\dimen319
-\psxunit=\dimen320
-\psyunit=\dimen321
-\pst@C@@rType=\count377
-\pslinewidth=\dimen322
-\psk@startLW=\dimen323
-\psk@endLW=\dimen324
+\psunit=\dimen316
+\psxunit=\dimen317
+\psyunit=\dimen318
+\pst@C@@rType=\count365
+\pslinewidth=\dimen319
+\psk@startLW=\dimen320
+\psk@endLW=\dimen321
  (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
-\pshooklength=\dimen325
-\pshookwidth=\dimen326
+\pshooklength=\dimen322
+\pshookwidth=\dimen323
 )
-\pst@customdefs=\toks50
+\pst@customdefs=\toks48
  (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
-\pslinearc=\dimen327
-\pst@symbolStep=\dimen328
-\pst@symbolWidth=\dimen329
-\pst@symbolLinewidth=\dimen330
-\everypsbox=\toks51
-\psframesep=\dimen331
-\pslabelsep=\dimen332
-\sh@wgridXunit=\dimen333
-\sh@wgridYunit=\dimen334
-\pst@shift=\dimen335
-\ps@imagectr=\count378
+\pslinearc=\dimen324
+\pst@symbolStep=\dimen325
+\pst@symbolWidth=\dimen326
+\pst@symbolLinewidth=\dimen327
+\everypsbox=\toks49
+\psframesep=\dimen328
+\pslabelsep=\dimen329
+\sh@wgridXunit=\dimen330
+\sh@wgridYunit=\dimen331
+\pst@shift=\dimen332
+\ps@imagectr=\count366
  (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con))
 File: pstricks.tex 2022/01/09 v3.13 `PSTricks' (tvz,hv)
  (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv))
 File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count379
-\lst@gtempboxa=\box126
-\lst@token=\toks52
-\lst@length=\count380
-\lst@currlwidth=\dimen336
-\lst@column=\count381
-\lst@pos=\count382
-\lst@lostspace=\dimen337
-\lst@width=\dimen338
-\lst@newlines=\count383
-\lst@lineno=\count384
-\lst@maxwidth=\dimen339
+\lst@mode=\count367
+\lst@gtempboxa=\box123
+\lst@token=\toks50
+\lst@length=\count368
+\lst@currlwidth=\dimen333
+\lst@column=\count369
+\lst@pos=\count370
+\lst@lostspace=\dimen334
+\lst@width=\dimen335
+\lst@newlines=\count371
+\lst@lineno=\count372
+\lst@maxwidth=\dimen336
  (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count385
-\lst@skipnumbers=\count386
-\lst@framebox=\box127
+\c@lstnumber=\count373
+\lst@skipnumbers=\count374
+\lst@framebox=\box124
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
@@ -891,58 +714,55 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
  (/usr/share/texlive/texmf-dist/tex/latex/stackengine/stackengine.sty
 Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient ways
  (/usr/share/texlive/texmf-dist/tex/generic/listofitems/listofitems.sty (/usr/share/texlive/texmf-dist/tex/generic/listofitems/listofitems.tex
-\loi_cnt_foreach_nest=\count387
-\loi_nestcnt=\count388
+\loi_cnt_foreach_nest=\count375
+\loi_nestcnt=\count376
 )
 Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified sep char (CT)
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count389
-\calc@Bcount=\count390
-\calc@Adimen=\dimen340
-\calc@Bdimen=\dimen341
-\calc@Askip=\skip67
-\calc@Bskip=\skip68
+\calc@Acount=\count377
+\calc@Bcount=\count378
+\calc@Adimen=\dimen337
+\calc@Bdimen=\dimen338
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count391
-\calc@Cskip=\skip69
+\calc@Ccount=\count379
+\calc@Cskip=\skip68
 )
-\c@@stackindex=\count392
-\@boxshift=\skip70
-\stack@tmplength=\skip71
-\temp@stkl=\skip72
-\@stackedboxwidth=\skip73
-\@addedbox=\box128
-\@anchorbox=\box129
-\@insetbox=\box130
-\se@backgroundbox=\box131
-\stackedbox=\box132
-\@centerbox=\box133
-\c@ROWcellindex@=\count393
+\c@@stackindex=\count380
+\@boxshift=\skip69
+\stack@tmplength=\skip70
+\temp@stkl=\skip71
+\@stackedboxwidth=\skip72
+\@addedbox=\box125
+\@anchorbox=\box126
+\@insetbox=\box127
+\se@backgroundbox=\box128
+\stackedbox=\box129
+\@centerbox=\box130
+\c@ROWcellindex@=\count381
 ) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip74
-\multirow@cntb=\count394
-\multirow@dima=\skip75
-\bigstrutjot=\dimen342
+\multirow@colwidth=\skip73
+\multirow@cntb=\count382
+\multirow@dima=\skip74
+\bigstrutjot=\dimen339
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen343
-\ar@mcellbox=\box134
-\extrarowheight=\dimen344
-\NC@list=\toks53
-\extratabsurround=\skip76
-\backup@length=\skip77
-\ar@cellbox=\box135
-) (./Tsinghua.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesmoothbars.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.sty)) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.bdg
-File: UTF8.bdg 2015/04/18 4.8.4
-) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
-File: UTF8.enc 2015/04/18 4.8.4
-) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
-File: UTF8.chr 2015/04/18 4.8.4
-)
-No file slide.aux.
+\col@sep=\dimen340
+\ar@mcellbox=\box131
+\extrarowheight=\dimen341
+\NC@list=\toks51
+\extratabsurround=\skip75
+\backup@length=\skip76
+\ar@cellbox=\box132
+) (./Tsinghua.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesmoothbars.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.sty)) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count383
+\l__pdf_internal_box=\box133
+) (./slide.aux)
 \openout1 = `slide.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -963,70 +783,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1063,17 +820,17 @@ LaTeX Font Info:    ... okay on input line 37.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count395
-\scratchdimen=\dimen345
-\scratchbox=\box136
-\nofMPsegments=\count396
-\nofMParguments=\count397
-\everyMPshowfont=\toks54
-\MPscratchCnt=\count398
-\MPscratchDim=\dimen346
-\MPnumerator=\count399
-\makeMPintoPDFobject=\count400
-\everyMPtoPDFconversion=\toks55
+\scratchcounter=\count384
+\scratchdimen=\dimen342
+\scratchbox=\box134
+\nofMPsegments=\count385
+\nofMParguments=\count386
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count387
+\MPscratchDim=\dimen343
+\MPnumerator=\count388
+\makeMPintoPDFobject=\count389
+\everyMPtoPDFconversion=\toks53
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1088,11 +845,12 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count401
+\c@section@level=\count390
 )
 LaTeX Info: Redefining \ref on input line 37.
 LaTeX Info: Redefining \pageref on input line 37.
 LaTeX Info: Redefining \nameref on input line 37.
+ (./slide.out) (./slide.out)
 \@outlinefile=\write5
 \openout5 = `slide.out'.
 
@@ -1161,11 +919,19 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/ctex/dictionary/translator-theorem-dictionary-ChineseUTF8.dict
-Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2021/12/12 v2.5.8 Chinese translation for theorem name (CTEX)
 )
-\c@lstlisting=\count402
- (./slide.nav) [1
+\c@lstlisting=\count391
+ (./slide.nav)
+Overfull \hbox (76.84248pt too wide) detected at line 37
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[1
 Non-PDF special ignored!
 <special> header=pstricks.pro
 Non-PDF special ignored!
@@ -1174,6 +940,8 @@ Non-PDF special ignored!
 <special> header=pst-tools.pro
 Non-PDF special ignored!
 <special> header=pst-dots.pro
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
 
 Non-PDF special ignored!
 <special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
@@ -1183,11 +951,202 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-No file slide.toc.
+] (./slide.toc)
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
 [2
 
 ]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 55.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 55.
+ (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[3
+
+] (./slide.toc)
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[4
+
+]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/env.png, id=263, 755.82375pt x 245.41687pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/env.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/env.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/env.png  used on input line 65.
+(pdftex.def)             Requested size: 307.28987pt x 99.77524pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[5
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/env.png>] (./slide.toc)
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[6
+
+]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/setup.png, id=355, 375.4025pt x 411.5375pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/setup.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/setup.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/setup.png  used on input line 74.
+(pdftex.def)             Requested size: 153.64493pt x 168.43633pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[7
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/setup.png>]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation.png, id=401, 722.7pt x 433.62pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation.png  used on input line 90.
+(pdftex.def)             Requested size: 147.49782pt x 88.49568pt.
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation_2.png, id=402, 722.7pt x 433.62pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation_2.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation_2.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation_2.png  used on input line 90.
+(pdftex.def)             Requested size: 147.49782pt x 88.49568pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[8
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation.png> </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/ENKF_inflation_2.png>]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/rms spread and error.png, id=447, 580.1675pt x 767.86874pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/rms spread and error.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/rms spread and error.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/rms spread and error.png  used on input line 104.
+(pdftex.def)             Requested size: 153.64493pt x 203.35536pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[9
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/rms spread and error.png>] (./slide.toc)
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[10
+
+]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/killed.png, id=538, 317.68687pt x 63.23625pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/killed.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/killed.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/killed.png  used on input line 115.
+(pdftex.def)             Requested size: 153.64493pt x 30.58463pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[11
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/killed.png>]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur.png, id=583, 242.9075pt x 25.59563pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur.png  used on input line 127.
+(pdftex.def)             Requested size: 153.64493pt x 16.18976pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[12
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur.png>]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur_r.png, id=629, 263.98625pt x 247.42438pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur_r.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur_r.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur_r.png  used on input line 142.
+(pdftex.def)             Requested size: 147.49782pt x 138.24335pt.
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/cutoff_r.png, id=630, 327.2225pt x 283.0575pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/cutoff_r.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/cutoff_r.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/cutoff_r.png  used on input line 142.
+(pdftex.def)             Requested size: 147.49782pt x 127.59064pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[13
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/schur_r.png> </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/cutoff_r.png>]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r2.png, id=676, 2766.4956pt x 1456.9632pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r2.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r2.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r2.png  used on input line 162.
+(pdftex.def)             Requested size: 98.335pt x 51.77702pt.
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r3.png, id=677, 462.528pt x 346.896pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r3.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r3.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r3.png  used on input line 162.
+(pdftex.def)             Requested size: 98.335pt x 73.75015pt.
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r4.png, id=678, 462.528pt x 346.896pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r4.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r4.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r4.png  used on input line 162.
+(pdftex.def)             Requested size: 98.335pt x 73.75015pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[14
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r2.png> </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r3.png> </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/n40_sz200_r4.png>] (./slide.toc)
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[15
+
+]
+</mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/batchs.png, id=772, 325.71687pt x 415.5525pt>
+File: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/batchs.png Graphic file (type png)
+<use /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/batchs.png>
+Package pdftex.def Info: /mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/batchs.png  used on input line 177.
+(pdftex.def)             Requested size: 153.64493pt x 196.02621pt.
+
+Overfull \hbox (76.84248pt too wide) has occurred while \output is active
+  [] [][][] [][][][][] [][][][][][] [][][]  
+ []
+
+[16
+
+ </mnt/c/workspace/study/Inverse Problem and Data Assimilation/pre/pic/batchs.png>]
 \tf@nav=\write6
 \openout6 = `slide.nav'.
 
@@ -1198,28 +1157,22 @@ No file slide.toc.
 \openout8 = `slide.snm'.
 
  (./slide.aux)
-
-Package rerunfilecheck Warning: File `slide.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `slide.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `slide.out' has not changed.
+(rerunfilecheck)             Checksum: 03429898906729A0A2BFB223F718E386;851.
  ) 
 Here is how much of TeX's memory you used:
- 28739 strings out of 478287
- 545742 string characters out of 5849288
- 828417 words of memory out of 5000000
- 46285 multiletter control sequences out of 15000+600000
- 475322 words of font info for 38 fonts, out of 8000000 for 9000
+ 26103 strings out of 478287
+ 496498 string characters out of 5849288
+ 777716 words of memory out of 5000000
+ 43687 multiletter control sequences out of 15000+600000
+ 487586 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,122p,781b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb>
-Output written on slide.pdf (2 pages, 33992 bytes).
+ 128i,20n,122p,474b,824s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
+Output written on slide.pdf (16 pages, 988958 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 877 PDF objects out of 1000 (max. 8388607)
+ 774 compressed objects within 8 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 170 words of extra memory for PDF output out of 10000 (max. 10000000)
 
